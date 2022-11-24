@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/juegoreact/static/css/main.7c5ada7a.css",
+    "main.js": "/juegoreact/static/js/main.5b3e831d.js",
+    "static/js/787.9e71537f.chunk.js": "/juegoreact/static/js/787.9e71537f.chunk.js",
+    "static/media/background.jpg": "/juegoreact/static/media/background.76621316fc3723c7a135.jpg",
+    "static/media/background1.jpg": "/juegoreact/static/media/background1.deb9c561a8f9f4d7373d.jpg",
+    "index.html": "/juegoreact/index.html",
+    "main.7c5ada7a.css.map": "/juegoreact/static/css/main.7c5ada7a.css.map",
+    "main.5b3e831d.js.map": "/juegoreact/static/js/main.5b3e831d.js.map",
+    "787.9e71537f.chunk.js.map": "/juegoreact/static/js/787.9e71537f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7c5ada7a.css",
+    "static/js/main.5b3e831d.js"
+  ]
+}
